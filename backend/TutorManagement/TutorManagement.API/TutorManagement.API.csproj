@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EduCore.Application\TutorManagement.Application.csproj" />
-    <ProjectReference Include="..\EduCore.Infrastructure\TutorManagement.Infrastructure.csproj" />
+    <ProjectReference Include="..\TutorManagement.Application\TutorManagement.Application.csproj" />
+    <ProjectReference Include="..\TutorManagement.Infrastructure\TutorManagement.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

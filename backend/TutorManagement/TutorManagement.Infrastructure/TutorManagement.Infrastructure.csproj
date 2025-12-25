@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EduCore.Application\TutorManagement.Application.csproj" />
-    <ProjectReference Include="..\EduCore.Domain\TutorManagement.Domain.csproj" />
+    <ProjectReference Include="..\TutorManagement.Application\TutorManagement.Application.csproj" />
+    <ProjectReference Include="..\TutorManagement.Domain\TutorManagement.Domain.csproj" />
   </ItemGroup>
 
 </Project>
